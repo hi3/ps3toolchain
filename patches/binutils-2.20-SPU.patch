@@ -1,0 +1,6 @@
+13c13
+< BINUTILS_VER=2.20
+---
+> BINUTILS_VER=2.20.1
+245a246
+>	export CC="gcc -DSHN_XINDEX=0xFFFF"
